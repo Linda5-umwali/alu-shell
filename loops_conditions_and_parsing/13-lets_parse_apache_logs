@@ -3,4 +3,4 @@
 # Format: IP HTTP_CODE
 # List format
 # Use 'awk'
-awk '{print $1 " " $9}' apache-access.log file
+awk '{print $1 " " $9}' apache-access.log
